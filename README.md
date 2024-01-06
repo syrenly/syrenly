@@ -4,3 +4,4 @@
 - 🌱 For this reason, I'm trying to create projects with Angular on GitHub.
 - 🥰 I like to share knowledge and learn new stuff.
 - 👻 I can't stand bully developers.
+- 🤗 If you make my point, you are welcome 🤗
