@@ -8,5 +8,5 @@
 
 # My Repositories
 - angular-17: a list of small projects that I'm generating to study the latest news of the framework (and integration with other tools).
-- training-ground: not a real project, but a repo containing my notes and experiments while studying. Probably I will take this private.
+- training-ground: not a real project, but a repo containing my notes and experiments while studying. Probably I will keep this private.
 - other repo soon 😊
