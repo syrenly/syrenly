@@ -6,8 +6,15 @@
 - 🥰 I like to share knowledge and learn new stuff.
 - 🤗 You are welcome to stay here and study with me 🤗
 
-# My Repositories
+# My repositories
+
+## Development
+
 - angular-17: a list of small projects that I'm generating to study the latest news of the framework (and integration with other tools).
 - microfrontend: a demo application with dynamic loading of microfrontend applications.
 - training-ground: not a real project, but a repo containing my notes and experiments while studying. Probably I will keep this private.
 - new repositories soon 😊
+
+## Hobby
+
+- GURPS: a set of GDR rules to be used in couple with "The Silence of Hollowind" settings.
