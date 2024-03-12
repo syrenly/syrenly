@@ -17,4 +17,4 @@
 
 ## Hobby
 
-- GURPS: a set of GDR rules to be used in couple with "The Silence of Hollowind" settings.
+- GURPS: a set of RPG rules from GURPS system, to be used in couple with "The Silence of Hollowind" settings.
