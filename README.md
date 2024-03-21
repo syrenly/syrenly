@@ -12,7 +12,7 @@ A brief summary of all my repositories. Further details can be found in the spec
 
 ## Development
 
-💪 My current efforts are on these:
+💪 My current efforts are on:
 - 🚧angular-demo🚧: application to study Angular 17. Be careful, it's a work in progress; take one of these: ⛑️ ⛑️ ⛑️
 
  Maybe not the most aesthetically pleasing projects you will ever see on Github, but at least they do what they should do:
