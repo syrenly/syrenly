@@ -19,7 +19,7 @@ A brief summary of all my repository. Any suggestions are REALLY appreciated
 - microfrontend: a demo application with dynamic loading of microfrontend applications.
 
 💪 My current efforts are on these:
-- 🚧angular-demo🚧: application to study Angular 17. Be careful, it's a work in progress: take one of these: ⛑️ ⛑️ ⛑️
+- 🚧angular-demo🚧: application to study Angular 17. Be careful, it's a work in progress; take one of these: ⛑️ ⛑️ ⛑️
 
 Others:
 
