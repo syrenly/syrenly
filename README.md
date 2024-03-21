@@ -8,13 +8,24 @@
 
 # My repositories
 
+A brief summary of all my repository. Any suggestions are REALLY appreciated 
+
 ## Development
 
-- angular-17: a list of small projects that I'm generating to study the latest news of the framework (and integration with other tools).
+ Maybe not the most aesthetically pleasing projects you will ever see on Github, but at least they do what they should do:
+ 
+- angular-w-bootstrap: small application to test integrations with Bootstrap CSS framework and study Angular attribute directives.
+- angular-w-tailwind: small application to test integrations with Tailwind CSS framework and DaisyUI.
 - microfrontend: a demo application with dynamic loading of microfrontend applications.
+
+💪 My current efforts are on these:
+- 🚧angular-demo🚧: application to study Angular 17. Be careful, it's a work in progress: take one of these: ⛑️ ⛑️ ⛑️
+
+Others:
+
 - training-ground: not a real project, but a repo containing my notes and experiments while studying. Probably I will keep this private.
 - new repositories soon 😊
 
-## Hobby
+## Personal interests
 
-- GURPS: a set of RPG rules from GURPS system, to be used in couple with "The Silence of Hollowind" settings.
+- 🎲 GURPS: a set of RPG rules from GURPS system, to be used in couple with "The Silence of Hollowind" settings.
