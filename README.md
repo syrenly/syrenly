@@ -16,7 +16,7 @@ A brief summary of all my repositories. Further details can be found in the spec
 - 🚧angular-demo🚧: application to study Angular 17. Be careful, it's a work in progress; take one of these: ⛑️ ⛑️ ⛑️
 
  Maybe not the most aesthetically pleasing projects you will ever see on Github, but at least they do what they should do:
-- angular-w-bootstrap: small application to test integrations with Bootstrap CSS framework and study Angular attribute directives.
+- angular-w-bootstrap: small application to test integrations with Bootstrap CSS framework and study Angular attributes and directives to apply styles. Unit tests included.
 - angular-w-tailwind: small application to test integrations with Tailwind CSS framework and DaisyUI.
 - microfrontend: demo application with dynamic loading of microfrontend applications.
 
