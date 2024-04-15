@@ -24,6 +24,10 @@ Others:
 - training-ground: not a real project, but a repo containing my notes and experiments while studying. Probably I will keep this private.
 - new repositories soon 😊
 
+## Assignment
+
+- weather-forecast: a demo application that uses OpenWeatherAPI to retrieve data about weather forecasts. Unit tests partially implemented.
+
 ## Personal interests
 
 - 🎲 GURPS: a set of RPG rules from GURPS system, to be used in couple with "The Silence of Hollowind" settings.
