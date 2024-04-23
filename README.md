@@ -16,6 +16,7 @@ A brief summary of all my repositories. Further details can be found in the spec
 - 🚧angular-demo🚧: application to study Angular 17. Be careful, it's a work in progress; take one of these: ⛑️ ⛑️ ⛑️
 
  Maybe not the most aesthetically pleasing projects you will ever see on Github, but at least they do what they should do:
+- weather-forecast: a demo application that uses OpenWeatherAPI to retrieve data about weather forecasts. Unit tests partially implemented.
 - angular-w-bootstrap: small application to test integrations with Bootstrap CSS framework and study Angular attributes and directives to apply styles. Unit tests included.
 - angular-w-tailwind: small application to test integrations with Tailwind CSS framework and DaisyUI. Unit tests included.
 - microfrontend: demo application with dynamic loading of microfrontend applications.
@@ -23,10 +24,6 @@ A brief summary of all my repositories. Further details can be found in the spec
 Others:
 - training-ground: not a real project, but a repo containing my notes and experiments while studying. Probably I will keep this private.
 - new repositories soon 😊
-
-## Assignment
-
-- weather-forecast: a demo application that uses OpenWeatherAPI to retrieve data about weather forecasts. Unit tests partially implemented.
 
 ## Personal interests
 
