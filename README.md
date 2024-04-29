@@ -10,7 +10,7 @@
 
 A brief summary of all my repositories. Further details can be found in the specific README of each repository. Any constructive suggestions are REALLY REALLY REALLY appreciated. 
 
-🔥All the repos are currently mantained, improvements are made at least weekly (and daily when I can) 🔥
+🔥All the repos are currently mantained, updates are made almost weekly🔥
 
 ## Development
 
