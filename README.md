@@ -19,7 +19,7 @@ A brief summary of all my repositories. Further details can be found in the spec
 - microfrontend: demo application with dynamic loading of microfrontend applications. 🚧REWORK IN PROGRESS🚧 You can see the progress on the branch [new-microfrontend](https://github.com/syrenly/microfrontend/tree/new-microfrontend)
 
 Full applications:
-- weather-forecast: a demo application that uses OpenWeatherAPI to retrieve data about weather forecasts. Unit tests partially implemented.
+- weather-forecast: a demo application that uses OpenWeatherAPI to retrieve data about weather forecasts. Unit tests cover at least 80% of the code.
 
  Maybe not the most aesthetically pleasing projects you will ever see on Github, but at least they do what they should do:
 - angular-w-bootstrap: small application to test integrations with Bootstrap CSS framework and study Angular attributes and directives to apply styles. Unit tests included.
@@ -31,4 +31,4 @@ Others:
 
 ## Personal interests
 
-- 🎲 GURPS: a set of RPG rules from GURPS system, to be used in couple with "The Silence of Hollowind" settings.
+- 🎲 GURPS: a set of RPG rules adapted from GURPS system, to be used in couple with "The Silence of Hollowind" settings.
