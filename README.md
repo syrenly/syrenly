@@ -1,6 +1,6 @@
 # Let me introduce myself!
 
-- 👋 Hi, I’m @syrenly.
+- 👋 Hi, I’m **syrenly**.
 - 🌸 I'm a frontend developer, with focus on Angular.
 - 🌱 I'm trying to create projects with Angular on GitHub, to improve my skills.
 - 🥰 I like to share knowledge and learn new stuff.
@@ -21,7 +21,7 @@ A brief summary of all my repositories. Further details can be found in the spec
 Full applications:
 - weather-forecast: a demo application that uses OpenWeatherAPI to retrieve data about weather forecasts. Unit tests cover at least 80% of the code.
 
- Maybe not the most aesthetically pleasing projects you will ever see on Github, but at least they do what they should do:
+Maybe not the most aesthetically pleasing projects you will ever see on Github, but at least they do what they should do:
 - angular-w-bootstrap: small application to test integrations with Bootstrap CSS framework and study Angular attributes and directives to apply styles. Unit tests included.
 - angular-w-tailwind: small application to test integrations with Tailwind CSS framework and DaisyUI. Unit tests included.
 
