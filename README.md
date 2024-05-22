@@ -8,18 +8,19 @@
 
 # My repositories
 
-A brief summary of all my repositories. Further details can be found in the specific README of each repository. Any constructive suggestions are REALLY REALLY REALLY appreciated. 
+A brief summary of all my repositories. Further details can be found in the specific README of each repository. The applications are implemented with Angular framework, possibly at the latest version. Any constructive suggestions are REALLY REALLY REALLY appreciated. 
 
-🔥All the repos are currently mantained, updates are made almost weekly🔥
+🔥All the repos are currently mantained, updates are made almost weekly🔥 
 
 ## Development
 
 💪 My current efforts are on:
+- 🎉 Upgrading all repo to Angular 18 🎉
 - 🚧angular-demo🚧: application to study Angular 17. Be careful, it's a work in progress; take one of these: ⛑️ ⛑️ ⛑️
 - microfrontend: demo application with dynamic loading of microfrontend applications. 🚧REWORK IN PROGRESS🚧 You can see the progress on the branch [new-microfrontend](https://github.com/syrenly/microfrontend/tree/new-microfrontend)
 
 Full applications:
-- weather-forecast: a demo application that uses OpenWeatherAPI to retrieve data about weather forecasts. Unit tests cover at least 80% of the code.
+- weather-forecast: a demo application, that uses OpenWeatherAPI to retrieve data about weather forecasts. Unit tests cover at least 80% of the code.
 
 Maybe not the most aesthetically pleasing projects you will ever see on Github, but at least they do what they should do:
 - angular-w-bootstrap: small application to test integrations with Bootstrap CSS framework and study Angular attributes and directives to apply styles. Unit tests included.
