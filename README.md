@@ -1,4 +1,4 @@
-# Let me introduce myself!
+a# Let me introduce myself!
 
 - 👋 Hi, I’m **syrenly**.
 - 🌸 I'm a frontend developer, with focus on Angular.
@@ -15,7 +15,7 @@ A brief summary of all my repositories. Further details can be found in the spec
 ## Development
 
 💪 My current efforts are on:
-- 🎉 Upgrading all repo to Angular 18 🎉
+- 🎉 Upgrading almost all repos to Angular 18 🎉
 - 🚧angular-demo🚧: application to study Angular 17. Be careful, it's a work in progress; take one of these: ⛑️ ⛑️ ⛑️
 - microfrontend: demo application with dynamic loading of microfrontend applications. 🚧REWORK IN PROGRESS🚧 You can see the progress on the branch [new-microfrontend](https://github.com/syrenly/microfrontend/tree/new-microfrontend)
 
