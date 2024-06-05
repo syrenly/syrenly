@@ -10,7 +10,7 @@ a# Let me introduce myself!
 
 A brief summary of all my repositories. Further details can be found in the specific README of each repository. The applications are implemented with Angular framework, possibly at the latest version. Any constructive suggestions are REALLY REALLY REALLY appreciated. 
 
-🔥All the repos are currently mantained, updates are made almost weekly🔥 
+🔥All the repos are currently mantained🔥 
 
 ## Development
 
