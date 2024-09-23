@@ -1,4 +1,6 @@
-a# Let me introduce myself!
+🔥🔥🔥Warning: most of my repositories are now private. I'm making a big review,, cleaning code and so on. If you need to view a specific repo for any reason, please feel free to contact me🔥🔥🔥 
+
+# Let me introduce myself!
 
 - 👋 Hi, I’m **syrenly**.
 - 🌸 I'm a frontend developer, with focus on Angular.
@@ -10,7 +12,7 @@ a# Let me introduce myself!
 
 A brief summary of all my repositories. Further details can be found in the specific README of each repository. The applications are implemented with Angular framework, possibly at the latest version. Any constructive suggestions are REALLY REALLY REALLY appreciated. 
 
-🔥All the repos are currently mantained🔥 
+🔥🔥🔥Warning: most of my repositories are now private. I'm making a big review,, cleaning code and so on. If you need to view a specific repo for any reason, please feel free to contact me🔥🔥🔥 
 
 ## Development
 
