@@ -17,10 +17,10 @@ A brief summary of all my repositories. Further details can be found in the spec
 ## Development
 
 💪 My current efforts are on:
-- 🎉 Upgrading almost all repos to Angular 18 🎉
+- 🎉 Upgrading almost all repos to last version of Angular 🎉
 
 Full applications:
-- weather-forecast: a demo application, that uses OpenWeatherAPI to retrieve data about weather forecasts. Unit tests cover at least 80% of the code.
+- weather-forecast: a demo application, that uses OpenWeatherAPI to retrieve data about weather forecasts. Unit tests cover at least 90% of the code.
   - [Repository](https://github.com/syrenly/weather-forecast)
   - [Deployed application](https://syrenly.github.io/weather-forecast/home)
 
@@ -34,5 +34,5 @@ Others:
 
 ## Personal interests
 
-- 🎲 GURPS: a set of RPG rules adapted from GURPS system, to be used in couple with "The Silence of Hollowind" settings.
+- 🎲 RPG: set of rules adapted from GURPS system, to be used in couple with "The Silence of Hollowind" settings.
   - [Repository](https://github.com/syrenly/gurps) 
